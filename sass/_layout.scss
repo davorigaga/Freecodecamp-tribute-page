@@ -1,0 +1,16 @@
+
+:root{
+    --color-primary: #777; 
+    --color-white: #fff; 
+    --color-secondary: gold;
+    --color-black: #000;
+    --color-black-1: #eee; 
+    --color-tertiary: yellow;
+}
+
+#main{
+    background-image: linear-gradient(to right bottom, 
+    rgba(gold, .8), rgba(gold, .8));
+    font-size: 2rem;
+    position: relative;
+}
